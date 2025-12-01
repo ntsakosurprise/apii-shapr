@@ -162,3 +162,37 @@ export const getCustomerBalances = () => {
 };
 
 ```
+
+# Questions & Support
+
+For questions and support please use apii-shaprjs's Suppport page on [Github repo](https://github.com/ntsakosurprise/apii-shapr/development/SUPPORT.md).
+
+# Issues
+
+Please make sure to read the [Issue](https://github.com/ntsakosurprise/apii-shapr/development/ISSUES.md) Reporting Checklist before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+
+# Changelog
+
+Detailed changes for each release are documented in our [Changelog](https://github.com/ntsakosurprise/apii-shapr/development//CHANGELOG.md).
+
+# Release Notes
+
+A summary of release changes can be found in our [Release Notes](https://github.com/ntsakosurprise/apii-shapr/development//RELEASE_NOTES.md).
+
+# Stay In Touch
+
+[Twitter @ntsakosurprise](https://twitter.com/ntsakosurprise).
+
+# Contribution
+
+Please make sure to read the [Contributing Guide](https://github.com/ntsakosurprise/apii-shapr/development/CONTRIBUTING.md) before making a pull request. If you have an apii-shapr plugin, add it with a pull request.
+
+# Licence
+
+[MIT](https://.github.com/) - see the [LICENSE](https://github.com/ntsakosurprise/apii-shapr/development/LICENSE.md) file for details.
+
+copyright (c) 2018-present. Ntsako (Surprise) Mashele
+
+
+
+
