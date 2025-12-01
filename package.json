@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:ts": "npx tsc",
+    "compile:cjs": "cross-env NODE_ENV=development NODE_MODE=cjs webpack",
+    "compile:esm": "cross-env NODE_ENV=development NODE_MODE=esm webpack"
   },
   "author": "",
   "license": "ISC",
