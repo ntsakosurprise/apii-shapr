@@ -16,7 +16,22 @@
     "compile:cjs": "cross-env NODE_ENV=development NODE_MODE=cjs webpack",
     "compile:esm": "cross-env NODE_ENV=development NODE_MODE=esm webpack"
   },
-  "author": "Ntsako Surprise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ntsakosurprise/apii-shapr"
+  },
+  "author": {
+    "email": "mashelesepru@gmail.com",
+    "name": "Surprise Ntsako Mashele",
+    "url": "https://www.twitter.com/ntsakosurprise"
+  },
+  "contributors": [
+    {
+      "name": "Surprise Mashele",
+      "email": "mashelesepru@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/ntsakosurprise/apii-shapr#readme",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.28.5",
